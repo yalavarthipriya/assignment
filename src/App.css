@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.input__element{
+  display: block;
+  margin: "10px auto" ; 
+  margin-top:"50px"
+}
+.select__button{
+  display: block;
+  margin-left: 500px;
+  margin-top: 30px; 
+  width: 100px;
+  
+}
